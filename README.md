@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Vitor 👋
 
-<!--
-**ApexVortex1209/ApexVortex1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estudante de Desenvolvimento de Software**  
+Transformando ideias em soluções através da tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou estudante de Desenvolvimento de Software, apaixonado por tecnologia, programação e aprendizado contínuo.
+
+Atualmente, busco minha primeira oportunidade na área para aplicar meus conhecimentos, adquirir experiência prática e contribuir para projetos que gerem impacto real.
+
+### Áreas de interesse
+
+- 🚀 Desenvolvimento de aplicações web
+- 🧠 Engenharia de Software
+- ⚡ Boas práticas e código limpo
+- 🔍 Aprendizado contínuo e resolução de problemas
+
+---
+
+## 🛠️ Tecnologias
+
+- Python
+- JavaScript
+- HTML5
+- CSS3
+
+---
+
+## 🎯 Objetivos
+
+- 📚 Aprimorar constantemente meus conhecimentos em desenvolvimento de software
+- 💻 Construir projetos que fortaleçam minhas habilidades técnicas
+- 🚀 Evoluir profissionalmente como desenvolvedor
+- 🤝 Conquistar minha primeira oportunidade na área de tecnologia
+
+---
+
+## 💡 Filosofia
+
+> "A tecnologia move o mundo, e eu estou construindo meu espaço nele através do aprendizado e da prática." 🚀
