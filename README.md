@@ -1,13 +1,13 @@
 # Olá, eu sou Vitor 👋
 
-💻 **Estudante de Desenvolvimento de Software**  
+💻 **Estudante de Engenharia de Software**  
 Transformando ideias em soluções através da tecnologia.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Desenvolvimento de Software, apaixonado por tecnologia, programação e aprendizado contínuo.
+Sou estudante de Engenharia de Software, apaixonado por tecnologia, programação e aprendizado contínuo.
 
 Atualmente, busco minha primeira oportunidade na área para aplicar meus conhecimentos, adquirir experiência prática e contribuir para projetos que gerem impacto real.
 
