@@ -38,6 +38,23 @@ Atualmente, busco minha primeira oportunidade na área para aplicar meus conheci
 
 ---
 
+
+## 📫 Contato
+
+- E-mail: victoremanoelsantossabino@email.com
+
+
+---
+
+
+## 📂 Projetos
+### Portfólio Pessoal
+Site responsivo desenvolvido com HTML, CSS e JavaScript.
+
+---
+
+
+
 ## 💡 Filosofia
 
 > "A tecnologia move o mundo, e eu estou construindo meu espaço nele através do aprendizado e da prática." 🚀
